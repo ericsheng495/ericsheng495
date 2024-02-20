@@ -7,7 +7,7 @@ Here are some ideas to get you started:
 -->
 
 
-- 🐝 **I’m currently** studying CS at Georgia Tech
+- 🔭 **I’m currently** studying CS at Georgia Tech 🐝 
 - 🌱 **I’m currently learning**: Redux, Microservices, Next.js \
 ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=flat&logo=redux&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=flat&logo=kubernetes&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white)  ![Next JS](https://img.shields.io/badge/Next-black?style=flat&logo=next.js&logoColor=white)
 - 😁 **Fun fact**: I play the oboe!
